@@ -15,12 +15,12 @@ class SimpleCalculator {
   }
 
   // Divides the first number by the second
-  int divide(int a, int b) {
-    if (b == 0) {
-      return 0; // Simple handling for division by zero
-    }
-    return a ~/ b;
+int divide(int a, int b) {
+  if (b == 0) {
+    return double.infinity.toInt(); // or throw a custom error message
   }
+  return a ~/ b;
+}
 }
 
 void main() {
