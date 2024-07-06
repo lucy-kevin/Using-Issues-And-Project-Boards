@@ -1,4 +1,4 @@
-# Deep Dive into GitHub Issues: Tracking and Managing Project Progress
+### Deep Dive into GitHub Issues: Tracking and Managing Project Progress
 ![Untitled (2)](https://github.com/lucy-kevin/Using-Issues-And-Project-Boards/assets/109363782/c1de026b-457d-49fa-aefe-7a0093034502)
 
 
